@@ -1,0 +1,19 @@
+.bg-container {
+  background-color: black;
+  color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-bar {
+  display: flex;
+  width: 300px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.coin-type {
+  padding-right: 100px;
+}
